@@ -1,14 +1,14 @@
-layout_spectrum: 0.10840818006545305
-typography_spectrum: 0.6841826273594052
+layout_spectrum: 0.3901694412343204
+typography_spectrum: 0.7491241837851703
 color:
-  brandStrength: 0.679544870974496
-  lightness: 0.20269281859509647
-  saturation: 0.5523390870075673
-  rhythmicContrast: 0.7035290801431984
+  brandStrength: 0.6506076036021113
+  lightness: 0.6006802427582443
+  saturation: 0.3941488638520241
+  rhythmicContrast: 0.4106871886178851
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 name: Blockchain Evangelist
