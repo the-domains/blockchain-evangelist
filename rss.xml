@@ -2,13 +2,68 @@
     <channel>
         <title><![CDATA[Blockchain Evangelist]]></title>
         <description><![CDATA[Blockchain Evangelist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/blockchain-evangelist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 14:22:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jul 2016 14:27:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blockchain-evangelist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Crypto-Decentralist Manifesto]]></title>
+            <description><![CDATA[<article><h1>A Crypto-Decentralist Manifesto</h1><p>Blockchains are going to rule the world, providing a mechanism for scalingsocial and economic cooperation to an unprecedented level - a truly globalscale. Such cooperation will involve not only human beings, groups andassociations but also a growing multitude of increasingly independentartificial agents.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aa27caa897c10169bfe49de4f5c7dd5d/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*gMu8qJtr2NeEuuGzvsfcnw.png"></article>]]></description>
+            <link>https://thegrid.ai/blockchain-evangelist/a-crypto-decentralist-manifesto/index.html</link>
+            <guid isPermaLink="false">61893ff3-472f-41ba-95cb-0b817a06aa26</guid>
+            <pubDate>Wed, 13 Jul 2016 14:27:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Decentralized Escape Hatch for DAOs]]></title>
+            <description><![CDATA[<article><h1>A Decentralized Escape Hatch for DAOs</h1><p>A lot of ink was spilled discussing the bugs and vulnerabilities of The DAO -- an autonomous Ethereum script that came to control about $150m and lost it all to hackers, once black-, and once white-hatted. One of the key lessons to emerge from The DAO's breach was a call for an escape hatch.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ddb8a5c3b205b758bc8c0c2cf0233145/noop.jpg?input=http%3A%2F%2Fhackingdistributed.com%2Fimages%2F2016-bitcoin%2Fhatch2.jpg"></article>]]></description>
+            <link>https://t.co/meWzWO1qLe</link>
+            <guid isPermaLink="false">22965089-5a2e-433c-97d5-9a84078b05f6</guid>
+            <pubDate>Wed, 13 Jul 2016 14:27:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A $50M Hack Tests the Values of Communities Run by Code]]></title>
+            <description><![CDATA[<article><h1>A $50M Hack Tests the Values of Communities Run by Code</h1><p>June 17, 2016 was an important day for the small but dedicated community that has formed around the nascent decentralized technology known as Ethereum, and for the blockchain community more generally. It was the day in which it became apparent (although not to everyone) that social organizations cannot be ruled only and exclusively by code.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/24ca5c715e505d65fb9844209898434a/croprotate.jpg?cropheight=1366&cropwidth=2048&degrees=0&input=http%3A%2F%2Fmotherboard-images.vice.com%2Fcontent-images%2Farticle%2Fno-id%2F1468246651849219.jpg&x=0&y=0"></article>]]></description>
+            <link>https://t.co/T7v3EzLQG2</link>
+            <guid isPermaLink="false">593f5e83-f72b-4628-a456-89be8543bb52</guid>
+            <pubDate>Wed, 13 Jul 2016 14:27:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beyond bitcoin. Your life is destined for the blockchain]]></title>
+            <description><![CDATA[<article><h1>Beyond bitcoin. Your life is destined for the blockchain</h1><p>Leanne Kemp is using the blockchain in an unconventional way: to fight crime. The system created to run the bitcoin cryptocurrency has often been associated with less than reputable activities - from drug trafficking to ransomware payments - but Everledger is using the blockchain for good.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2e4165eb0fc14b4fb5a5819c782fd82b425e046.jpg"></article>]]></description>
+            <link>https://t.co/LIhN0w4xu8</link>
+            <guid isPermaLink="false">2e4b4038-998b-4e17-be8e-56ed8cd62d5b</guid>
+            <pubDate>Wed, 13 Jul 2016 14:27:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Legal Tech - Mapping Disruption]]></title>
+            <description><![CDATA[<article><h1>Legal Tech - Mapping Disruption</h1><p>We ( Seedcamp) recently hosted a Legal Tech focused event in partnership with Next Law Labs to bring together influencers in the Legal Tech community and those interested in finding out more. The turnout for the event was great and speaking to the founders who came along it really feels like the space is at a tipping point.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/46dbfbb0c3c1802bd30bd1c6fcb3177b/croprotate.jpeg?cropheight=548&cropwidth=1024&degrees=0&input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*l4WrNUBTRzfTwfMIGMHUXQ.jpeg&x=0&y=110"></article>]]></description>
+            <link>https://thegrid.ai/blockchain-evangelist/legal-tech-mapping-disruption/index.html</link>
+            <guid isPermaLink="false">f85b3644-f373-457a-86c6-615bd328ab05</guid>
+            <pubDate>Wed, 13 Jul 2016 14:27:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://t.co/u6R509skYy</link>
+            <guid isPermaLink="false">10156604-1e36-4256-a849-4d869fc2023b</guid>
+            <pubDate>Wed, 13 Jul 2016 14:27:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[End of nations: Is there an alternative to countries?]]></title>
+            <description><![CDATA[<article><h1>End of nations: Is there an alternative to countries?</h1><p>Try, for a moment, to envisage a world without countries. Imagine a map not divided into neat, coloured patches, each with clear borders, governments, laws. Try to describe anything our society does - trade, travel, science, sport, maintaining peace and security - without mentioning countries.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8ef5cad031b65bd7ec83434861d90e37/croprotate.jpg?cropheight=766&cropwidth=759&degrees=0&input=https%3A%2F%2Fd1o50x50snmhul.cloudfront.net%2Fwp-content%2Fuploads%2F2014%2F09%2F03170000%2Fworldmappaintv2-on-white-canvas.jpg&x=225&y=18"></article>]]></description>
+            <link>https://www.newscientist.com/article/mg22329850-600-end-of-nations-is-there-an-alternative-to-countries/</link>
+            <guid isPermaLink="false">45ebb3f5-5a31-4c01-a1b7-b2dbb5dd3a88</guid>
+            <pubDate>Wed, 13 Jul 2016 14:27:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hiding Money: CoinJoins]]></title>
+            <description><![CDATA[<article><h1>Hiding Money: CoinJoins</h1><p>This is the second post in a series introducing CoinLab's Oden Technology and Patent. You should probably read Part 1 first. Since publishing our first article, the largest number of questions we've gotten have revolved around CoinJoins - are they effective? How do they react to the kind of analysis Oden can do?</p></article>]]></description>
+            <link>https://t.co/AkM6CnQwOv</link>
+            <guid isPermaLink="false">c8c79f1d-81c5-4919-8d96-9374e2c62b81</guid>
+            <pubDate>Wed, 13 Jul 2016 14:27:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[De echte waarde van bitcoin en crypto-currency technologie - De Blockchain uitgelegd]]></title>
-            <description><![CDATA[<article><h1>De echte waarde van bitcoin en crypto-currency technologie - De Blockchain uitgelegd</h1><p>Bitcoin in vijf minuten: De Blockchain technologie gaat ons (samen)leven drastisch veranderen. De technologie achter crypto currencies als Bitcoin gaat de rol van de traditionele vertrouwde partijen als banken, accountants, notarissen en overheden in de komende jaren onvermijdelijk en ingrijpend veranderen.</p></article>]]></description>
+            <description><![CDATA[<article><h1>De echte waarde van bitcoin en crypto-currency technologie - De Blockchain uitgelegd</h1><p>Bitcoin in vijf minuten: De Blockchain technologie gaat ons (samen)leven drastisch veranderen. De technologie achter crypto currencies als Bitcoin gaat de rol van de traditionele vertrouwde partijen als banken, accountants, notarissen en overheden in de komende jaren onvermijdelijk en ingrijpend veranderen.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6e450afa4470a3d44da25c60f7b5c590/croprotate.jpg?cropheight=990&cropwidth=1728&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FgKC2oelL878%2Fmaxresdefault.jpg&x=0&y=47"></article>]]></description>
             <link>https://www.youtube.com/watch?v=gKC2oelL878</link>
             <guid isPermaLink="false">3be431b1-0398-49a7-992c-d5aaeee83029</guid>
             <pubDate>Wed, 13 Jul 2016 14:21:59 GMT</pubDate>
